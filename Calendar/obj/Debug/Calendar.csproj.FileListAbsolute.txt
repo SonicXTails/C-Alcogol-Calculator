@@ -1,0 +1,70 @@
+C:\Users\SonicXTails\Desktop\Calendar\Calendar\Calendar\bin\Debug\Calendar.exe.config
+C:\Users\SonicXTails\Desktop\Calendar\Calendar\Calendar\bin\Debug\Calendar.exe
+C:\Users\SonicXTails\Desktop\Calendar\Calendar\Calendar\bin\Debug\Calendar.pdb
+C:\Users\SonicXTails\Desktop\Calendar\Calendar\Calendar\obj\Debug\Calendar.csproj.AssemblyReference.cache
+C:\Users\SonicXTails\Desktop\Calendar\Calendar\Calendar\obj\Debug\MainWindow.g.cs
+C:\Users\SonicXTails\Desktop\Calendar\Calendar\Calendar\obj\Debug\App.g.cs
+C:\Users\SonicXTails\Desktop\Calendar\Calendar\Calendar\obj\Debug\Calendar_MarkupCompile.cache
+C:\Users\SonicXTails\Desktop\Calendar\Calendar\Calendar\obj\Debug\Calendar_MarkupCompile.lref
+C:\Users\SonicXTails\Desktop\Calendar\Calendar\Calendar\obj\Debug\MainWindow.baml
+C:\Users\SonicXTails\Desktop\Calendar\Calendar\Calendar\obj\Debug\Calendar.g.resources
+C:\Users\SonicXTails\Desktop\Calendar\Calendar\Calendar\obj\Debug\Calendar.Properties.Resources.resources
+C:\Users\SonicXTails\Desktop\Calendar\Calendar\Calendar\obj\Debug\Calendar.csproj.GenerateResource.cache
+C:\Users\SonicXTails\Desktop\Calendar\Calendar\Calendar\obj\Debug\Calendar.csproj.CoreCompileInputs.cache
+C:\Users\SonicXTails\Desktop\Calendar\Calendar\Calendar\obj\Debug\Calendar.exe
+C:\Users\SonicXTails\Desktop\Calendar\Calendar\Calendar\obj\Debug\Calendar.pdb
+C:\Users\SonicXTails\Desktop\Calendar\Calendar\Calendar\obj\Debug\View\CalendarWindowView.g.cs
+C:\Users\SonicXTails\Desktop\Calendar\Calendar\Calendar\obj\Debug\View\CalendarWindowView.baml
+C:\Users\SonicXTails\Desktop\Calendar\Calendar\Calendar\bin\Debug\MaterialDesignColors.dll
+C:\Users\SonicXTails\Desktop\Calendar\Calendar\Calendar\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\SonicXTails\Desktop\Calendar\Calendar\Calendar\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\SonicXTails\Desktop\Calendar\Calendar\Calendar\bin\Debug\MaterialDesignColors.pdb
+C:\Users\SonicXTails\Desktop\Calendar\Calendar\Calendar\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\SonicXTails\Desktop\Calendar\Calendar\Calendar\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\SonicXTails\Desktop\Calendar\Calendar\Calendar\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\SonicXTails\Desktop\Calendar\Calendar\Calendar\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\SonicXTails\Desktop\Calendar\Calendar\Calendar\obj\Debug\App.baml
+C:\Users\SonicXTails\Desktop\Calendar\Calendar\Calendar\obj\Debug\Calendar.csproj.Up2Date
+C:\Users\SonicXTails\Desktop\Calendar\Calendar\Calendar\obj\Debug\View\CalendarPageView.g.cs
+C:\Users\SonicXTails\Desktop\Calendar\Calendar\Calendar\obj\Debug\View\CalendarUserControlView.g.cs
+C:\Users\SonicXTails\Desktop\Calendar\Calendar\Calendar\obj\Debug\View\CalendarPageView.baml
+C:\Users\SonicXTails\Desktop\Calendar\Calendar\Calendar\obj\Debug\View\CalendarUserControlView.baml
+C:\Users\SonicXTails\Desktop\Calendar\Calendar\Calendar\obj\Debug\View\ChoiseOfAlcogolCalendarPage.g.cs
+C:\Users\SonicXTails\Desktop\Calendar\Calendar\Calendar\obj\Debug\View\ChoiseOfAlcogolCalendarPage.baml
+C:\Users\SonicXTails\Desktop\Calendar\Calendar\Calendar\obj\Debug\View\ChoiseUSerControl.g.cs
+C:\Users\SonicXTails\Desktop\Calendar\Calendar\Calendar\obj\Debug\View\ChoiseUSerControl.baml
+D:\Lessons\П\C# (Скорогудаева София Алексеевна)\1. Практические\4\Calendar\Calendar\bin\Debug\Calendar.exe.config
+D:\Lessons\П\C# (Скорогудаева София Алексеевна)\1. Практические\4\Calendar\Calendar\bin\Debug\Calendar.exe
+D:\Lessons\П\C# (Скорогудаева София Алексеевна)\1. Практические\4\Calendar\Calendar\bin\Debug\Calendar.pdb
+D:\Lessons\П\C# (Скорогудаева София Алексеевна)\1. Практические\4\Calendar\Calendar\bin\Debug\MaterialDesignColors.dll
+D:\Lessons\П\C# (Скорогудаева София Алексеевна)\1. Практические\4\Calendar\Calendar\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Lessons\П\C# (Скорогудаева София Алексеевна)\1. Практические\4\Calendar\Calendar\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\Lessons\П\C# (Скорогудаева София Алексеевна)\1. Практические\4\Calendar\Calendar\bin\Debug\MaterialDesignColors.pdb
+D:\Lessons\П\C# (Скорогудаева София Алексеевна)\1. Практические\4\Calendar\Calendar\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Lessons\П\C# (Скорогудаева София Алексеевна)\1. Практические\4\Calendar\Calendar\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Lessons\П\C# (Скорогудаева София Алексеевна)\1. Практические\4\Calendar\Calendar\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\Lessons\П\C# (Скорогудаева София Алексеевна)\1. Практические\4\Calendar\Calendar\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\Lessons\П\C# (Скорогудаева София Алексеевна)\1. Практические\4\Calendar\Calendar\obj\Debug\Calendar.csproj.AssemblyReference.cache
+D:\Lessons\П\C# (Скорогудаева София Алексеевна)\1. Практические\4\Calendar\Calendar\obj\Debug\MainWindow.g.cs
+D:\Lessons\П\C# (Скорогудаева София Алексеевна)\1. Практические\4\Calendar\Calendar\obj\Debug\View\CalendarPageView.g.cs
+D:\Lessons\П\C# (Скорогудаева София Алексеевна)\1. Практические\4\Calendar\Calendar\obj\Debug\View\CalendarUserControlView.g.cs
+D:\Lessons\П\C# (Скорогудаева София Алексеевна)\1. Практические\4\Calendar\Calendar\obj\Debug\View\CalendarWindowView.g.cs
+D:\Lessons\П\C# (Скорогудаева София Алексеевна)\1. Практические\4\Calendar\Calendar\obj\Debug\View\ChoiseOfAlcogolCalendarPage.g.cs
+D:\Lessons\П\C# (Скорогудаева София Алексеевна)\1. Практические\4\Calendar\Calendar\obj\Debug\View\ChoiseUserControl.g.cs
+D:\Lessons\П\C# (Скорогудаева София Алексеевна)\1. Практические\4\Calendar\Calendar\obj\Debug\App.g.cs
+D:\Lessons\П\C# (Скорогудаева София Алексеевна)\1. Практические\4\Calendar\Calendar\obj\Debug\Calendar_MarkupCompile.cache
+D:\Lessons\П\C# (Скорогудаева София Алексеевна)\1. Практические\4\Calendar\Calendar\obj\Debug\Calendar_MarkupCompile.lref
+D:\Lessons\П\C# (Скорогудаева София Алексеевна)\1. Практические\4\Calendar\Calendar\obj\Debug\App.baml
+D:\Lessons\П\C# (Скорогудаева София Алексеевна)\1. Практические\4\Calendar\Calendar\obj\Debug\MainWindow.baml
+D:\Lessons\П\C# (Скорогудаева София Алексеевна)\1. Практические\4\Calendar\Calendar\obj\Debug\View\CalendarPageView.baml
+D:\Lessons\П\C# (Скорогудаева София Алексеевна)\1. Практические\4\Calendar\Calendar\obj\Debug\View\CalendarUserControlView.baml
+D:\Lessons\П\C# (Скорогудаева София Алексеевна)\1. Практические\4\Calendar\Calendar\obj\Debug\View\CalendarWindowView.baml
+D:\Lessons\П\C# (Скорогудаева София Алексеевна)\1. Практические\4\Calendar\Calendar\obj\Debug\View\ChoiseOfAlcogolCalendarPage.baml
+D:\Lessons\П\C# (Скорогудаева София Алексеевна)\1. Практические\4\Calendar\Calendar\obj\Debug\View\ChoiseUserControl.baml
+D:\Lessons\П\C# (Скорогудаева София Алексеевна)\1. Практические\4\Calendar\Calendar\obj\Debug\Calendar.g.resources
+D:\Lessons\П\C# (Скорогудаева София Алексеевна)\1. Практические\4\Calendar\Calendar\obj\Debug\Calendar.Properties.Resources.resources
+D:\Lessons\П\C# (Скорогудаева София Алексеевна)\1. Практические\4\Calendar\Calendar\obj\Debug\Calendar.csproj.GenerateResource.cache
+D:\Lessons\П\C# (Скорогудаева София Алексеевна)\1. Практические\4\Calendar\Calendar\obj\Debug\Calendar.csproj.CoreCompileInputs.cache
+D:\Lessons\П\C# (Скорогудаева София Алексеевна)\1. Практические\4\Calendar\Calendar\obj\Debug\Calendar.csproj.CopyComplete
+D:\Lessons\П\C# (Скорогудаева София Алексеевна)\1. Практические\4\Calendar\Calendar\obj\Debug\Calendar.exe
+D:\Lessons\П\C# (Скорогудаева София Алексеевна)\1. Практические\4\Calendar\Calendar\obj\Debug\Calendar.pdb
